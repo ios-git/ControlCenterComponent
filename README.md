@@ -7,13 +7,13 @@
 
 # Screenshots
 
-![IMG_0113](https://user-images.githubusercontent.com/97459345/149158083-781ecb04-f528-4102-b4cf-11dc07e89cb2.PNG)
+![IMG_0129](https://user-images.githubusercontent.com/97459345/149768795-b3ed3d7b-9099-4c48-9dd5-e76e7bd4b926.PNG)
 
-![IMG_0114](https://user-images.githubusercontent.com/97459345/149158096-8cfb460c-6876-49ef-9764-0b961fb5674f.PNG)
+![IMG_0130](https://user-images.githubusercontent.com/97459345/149768920-a8da6b1e-6380-4ebb-bb43-1c564bf105d1.PNG)
 
 
 # Video
-https://user-images.githubusercontent.com/97459345/149157246-5fb1d9d5-29dc-4387-a51d-1fa131b8403c.MP4
+https://user-images.githubusercontent.com/97459345/149768986-ca7bdec2-cecb-4ee4-989e-8fd532154780.MP4
 
 
 # Requirements
